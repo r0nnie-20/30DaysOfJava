@@ -10,7 +10,7 @@ by Ronnie Cutamora
 
 
 //public class Data Structure Algorithm
-public class DSA{
+public class DataStructuresAlgorithm{
 	
 	//main method
 	public static void main(String[] args) {
